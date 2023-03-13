@@ -3,3 +3,30 @@ title: μ-RegPro
 description: Website for the μ-RegPro MICCAI 2023 Challenge.
 
 theme: just-the-docs
+
+color_scheme: dark
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+search_enabled: false
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: Created by the μ-RegPro Organizers.
+
