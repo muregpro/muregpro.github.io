@@ -26,7 +26,7 @@ There are 8 unique metrics used for validation in the &micro;-RegPro challenge. 
 
 8. Runtime: the amount of time it takes to compute the warped image using the algorithm; computed over all cases and then averaged to obtain the average per-case runtime.
 
-For transparencry and clarity, we note that these metrics are chosen because:
+For transparency and clarity, we note that these metrics are chosen because:
 
 1. Dice Similarity Coefficient (DSC): DSC reflects the volumetric overlap between the registered image pair which is desirable in use cases such as intra-operative augmented reality where preoperative images (or features from these images) may be registered and overlaid onto the intraoperative images ([Bianchi et al., 2021](https://doi.org/10.1016/j.eururo.2021.06.020)); furthermore, DSC is capable of reflecting both size and localization agreement between the registered image pair which is useful for medical imaging applications such as intraoperative lesion localization using registration of intra-operative and preoperative images ([Zijdenbos et al., 1994](https://doi.org/10.1109/42.363096); [Bertels et al. 2019](https://doi.org/10.1007/978-3-030-32245-8_11)).
 
@@ -52,7 +52,25 @@ Overall, these metrics permit the computation of a score by:
 
 The overall scores will be in the range [0, 1] where higher is better. We will report these to 3 decimal places.
 
-Rankings will be generated based on these scores. In the event of the same scores, we will award a higher rank based on the StDJD and award. In the case of a further tie, we will award a higher rank to the submission with a smaller runtime.
-
 {: .warning }
 The minimum score (0) will be given for any case which does not run correctly or for which metrics are unable to be calculated.
+
+Rankings will be generated based on these scores. In the event of the same scores, we will award a higher rank based on the StDJD and award. In the case of a further tie, we will award a higher rank to the submission with a smaller runtime.
+
+## Maximum Runtimes
+
+While the runtime is reported as a metric, a maximum runtime will be imposed for challenge submissions. By implementing a limit, we aim to fairly encourage usability in the target application, as well as in image registration more generally, without permitting highly-optimized code or solutions to dominate the ranking system.
+
+When we have thoroughly benchmarked the speed of our baseline deep learning methods (LocalNet ([Hu et al., 2019](https://doi.org/10.1016/j.media.2018.07.002)) and VoxelMorph ([Balakrishnan et al., 2019](https://doi.org/10.1109/tmi.2019.2897538))), we will finalize the maximum runtime and notify all currently registered users. This will occur in advance of the Test Data Evaluation period commencing. 
+
+This maximum runtime will be the greater of:
+- 30 seconds per case,
+- 10 x the average case runtime of the provided deep learning baselines (e.g. if they require 1 second on average, 10 seconds would be used here).
+
+While we cannot, at this time, explicitly provide the maximum runtime per case, the above limits will be noted publicly ahead of submissions opening. In the interim, we note below the key specifications of the system which will be used to run all validations:
+
+- OS: Ubuntu 18.04.06 LTS
+- CPU: Intel Xeon Silver 4110 @ 2.1GHz (32 Core)
+- GPU: NVIDIA Quadro P5000 (16GB VRAM)
+- RAM: 32GB DRAM 
+
