@@ -61,6 +61,16 @@ Zhe Min, PhD, University College London
 Yipeng Hu, PhD, University College London
 
 Dean C. Barratt, PhD, University College London
+
+Challenge Contact E-Mail: [`muregpro@gmail.com`](mailto:muregpro@gmail.com)
 ## Sponsors
 
-TBA
+<div align=center>
+  <a href="https://www.ucl.ac.uk/interventional-surgical-sciences/wellcome-epsrc-centre-interventional-and-surgical-sciences-weiss" target="_blank"><img style="padding: 20px;" src="img/weiss.png" width=300px></a>
+</div>
+
+---
+
+<div align=center>
+  <a href="https://conferences.miccai.org/2023/" target="_blank"><img style="padding: 20px;" src="img/miccai2023-logo.png" width=200px></a>
+</div>
