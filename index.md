@@ -20,13 +20,16 @@ The &micro;-RegPro challenge will occur as a one-time event with a fixed challen
 
 | Date         | Challenge Milestone                              |
 | -------------| ------------------------------------------------ |
-| April 3 2023 | Registration Opens                               |
-| April 3 2023 | Training Data Release                            |
-| June 5 2023  | Validation Data Release                          |
-| July 3 2023  | Test Data Evaluation Begins ("Submissions Open") |
-| July 3 2023  | Baseline Algorithm Performance Released          |
-| July 17 2023 | Test Data Evaluation Closes                      |
-| July 24 2023 | Winners Announced and Speaker Invitations        |
+| Apr. 3 2023  | Registration Opens                               |
+| Apr. 3 2023  | Training Data Release                            |
+| Jun. 5 2023  | Validation Data Release                          |
+| Jul. 3 2023  | Test Data Evaluation Begins ("Submissions Open") |
+| Jul. 3 2023  | Baseline Algorithm Performance Released          |
+| Jul. 17 2023 | Test Data Evaluation Closes                      |
+| Jul. 24 2023 | Winners Announced and Speaker Invitations        |
+| TBD @ MICCAI | &micro;-RegPro Challenge Event @ MICCAI 2023     |
+
+The Challenge will take place on either October 8th or 12th 2023. Location (online/in-person/hybrid) details / presentation details / event format are TBA. 
 
 ## The Task
 

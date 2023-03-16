@@ -9,12 +9,13 @@ nav_order: 6
 - Submitted methods must be fully automatic.
 - Public and Private Data are permitted, however their use must be disclosed by participants.
 - Organizers may participate and be listed in leaderboards, but are not eligble for awards.
+- All participants must form teams (even if the team is composed of a single participant), and each participant can only be a member of a single team.
 
 # Data Usage Policy
 
 The data is made available under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The challenge data shall be available for use exclusively for research purposes, due to the restrictions from [original ethics approval and patient consent](https://clinicaltrials.gov/ct2/show/record/NCT02341677?view=record). 
 
-The training and validation data will remain publicly available after the completion of the challenge. The training and validation data may be used within the research remit of this challenge, and in further research-related publications. The training and validation data is not to be used commercially. However, if the desired use case is unclear, the organizers ask that those accessing the data refrain from further use or distribution outside of this challenge.
+The training and validation data will remain publicly available after the completion of the challenge, and is accessible here **(ADD LINK)**. The training and validation data may be used within the research remit of this challenge, and in further research-related publications. The training and validation data is not to be used commercially. However, if the desired use case is unclear, the organizers ask that those accessing the data refrain from further use or distribution outside of this challenge.
 
 # Publication Policy
 
