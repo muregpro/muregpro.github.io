@@ -16,12 +16,14 @@ The &micro;-RegPro challenge aims to provide well-curated, yet real-world clinic
 
 The &micro;-RegPro challenge will occur as a one-time event with a fixed challenge submission timeline at [MICCAI 2023](https://conferences.miccai.org/2023/en/), as noted in the [challenge timeline](#timeline).
 
+**The full challenge description can be found [here](https://zenodo.org/record/7844908).**
+
 ## Timeline
 
 | Date          | Challenge Milestone                              |
 | ------------- | ------------------------------------------------ |
 | Apr. 3 2023   | Registration Opens                               |
-| Apr. 17 2023  | Training Data Release                            |
+| Apr. 28 2023  | Training Data Release                            |
 | Jun. 5 2023   | Validation Data Release                          |
 | Jul. 3 2023   | Test Data Evaluation Begins ("Submissions Open") |
 | Jul. 3 2023   | Baseline Algorithm Performance Released          |
