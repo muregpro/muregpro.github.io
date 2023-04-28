@@ -18,6 +18,8 @@ The &micro;-RegPro challenge will occur as a one-time event with a fixed challen
 
 **The full challenge description can be found [here](https://zenodo.org/record/7844908).**
 
+**The challenge data is accessible [here](https://doi.org/10.5281/zenodo.7870104).**
+
 ## Timeline
 
 | Date          | Challenge Milestone                              |

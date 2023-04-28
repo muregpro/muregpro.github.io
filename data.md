@@ -12,9 +12,7 @@ In this dataset are found subjects of the SmartTarget Biopsy Clinical Trial ([Ha
 
 Of these 141 patients, 108 pairs had US images acquired in the transverse plane during their biopsy, and 33 in the sagittal plane. The 108 pairs which were acquired in the transverse plane, as well as their paired MRs, are included in the challenge.
 
-The data is split into training, validation, and test sets of 65, 8, and 35 images, respectively.
-
-**TODO: PROVIDE LINK**
+The data is split into training, validation, and test sets of 65, 8, and 35 images, respectively. The data can be found [here](https://doi.org/10.5281/zenodo.7870104)
 
 ## Images
 
