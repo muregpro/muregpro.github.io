@@ -28,4 +28,4 @@ Given that this task encompasses unsupervised transform prediction, there is no 
 {: .important }
 While the test data will not have segmentation labels publicly visible, participants may derive segmentations as part of their inference process in order to assist their registration method.
 
-Organizers will provide end-to-end weakly-supervised baseline solutions adapted from LocalNet ([Hu et al., 2019](https://doi.org/10.1016/j.media.2018.07.002)) and VoxelMorph ([Balakrishnan et al., 2019](https://doi.org/10.1109/tmi.2019.2897538)) in the Leaderboard and in a GitHub repository.
+The organizers have provided end-to-end weakly-supervised baseline solutions adapted from LocalNet ([Hu et al., 2019](https://doi.org/10.1016/j.media.2018.07.002)) and VoxelMorph ([Balakrishnan et al., 2019](https://doi.org/10.1109/tmi.2019.2897538)) in the Leaderboard and for use in developing your methods in a GitHub repository, [here](https://github.com/muregpro/Baseline-Networks).

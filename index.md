@@ -20,6 +20,9 @@ The &micro;-RegPro challenge will occur as a one-time event with a fixed challen
 
 **The challenge data is accessible [here](https://doi.org/10.5281/zenodo.7870104).**
 
+**Sample baseline models for training and testing on the challenge data are accessible [here](https://github.com/muregpro/Baseline-Networks).**
+
+
 ## Timeline
 
 | Date          | Challenge Milestone                              |
