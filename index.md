@@ -25,18 +25,18 @@ The &micro;-RegPro challenge will occur as a one-time event with a fixed challen
 
 ## Timeline
 
-| Date          | Challenge Milestone                              |
-| ------------- | ------------------------------------------------ |
-| Apr. 3 2023   | Registration Opens                               |
-| Apr. 28 2023  | Training Data Release                            |
-| Jun. 5 2023   | Validation Data Release                          |
-| Jul. 3 2023   | Test Data Evaluation Begins ("Submissions Open") |
-| Jul. 3 2023   | Baseline Algorithm Performance Released          |
-| Jul. 17 2023  | Test Data Evaluation Closes                      |
-| Jul. 24 2023  | Winners Announced and Speaker Invitations        |
-| TBD @ MICCAI  | &micro;-RegPro Challenge Event @ MICCAI 2023     |
+| Date                          | Challenge Milestone                              |
+| ----------------------------- | ------------------------------------------------ |
+| Apr. 3 2023                   | Registration Opens                               |
+| Apr. 28 2023                  | Training Data Release                            |
+| Jun. 5 2023                   | Validation Data Release                          |
+| Jul. 3 2023                   | Test Data Evaluation Begins ("Submissions Open") |
+| Jul. 3 2023                   | Baseline Algorithm Performance Released          |
+| ~~Jul. 17 2023~~ Aug. 28 2023 | Test Data Evaluation Closes                      |
+| ~~Jul. 24 2023~~ Sep. 11 2023  | Winners Announced and Speaker Invitations        |
+| Oct. 8 2023                   | &micro;-RegPro Challenge Event @ MICCAI 2023     |
 
-The Challenge will take place on either October 8th or 12th 2023. Location (online/in-person/hybrid) details / presentation details / event format are TBA. 
+The Challenge will take place on October 8th 2023 during the ASMUS Workshop. Location and presentation details, as well as the event format to follow. 
 
 ## The Task
 
