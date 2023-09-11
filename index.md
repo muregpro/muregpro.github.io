@@ -33,10 +33,12 @@ The &micro;-RegPro challenge will occur as a one-time event with a fixed challen
 | Jul. 3 2023                   | Test Data Evaluation Begins ("Submissions Open") |
 | Jul. 3 2023                   | Baseline Algorithm Performance Released          |
 | ~~Jul. 17 2023~~ Aug. 28 2023 | Test Data Evaluation Closes                      |
-| ~~Jul. 24 2023~~ Sep. 11 2023  | Winners Announced and Speaker Invitations        |
+| ~~Jul. 24 2023~~ Sep. 11 2023 | Winners Announced and Speaker Invitations        |
 | Oct. 8 2023                   | &micro;-RegPro Challenge Event @ MICCAI 2023     |
 
 The Challenge will take place on October 8th 2023 during the ASMUS Workshop. Location and presentation details, as well as the event format to follow. 
+
+> **Congratulations to Team Tiny on their submission with a final score of 0.827, and for winning the inaugural &micro;-RegPro Challenge.**
 
 ## The Task
 
@@ -59,7 +61,7 @@ TBA on GitHub
 
 ## Organizers
 
-Zachary M. C. Baum, MSc, University College London
+Zachary M. C. Baum, PhD, University College London
 
 Shaheer U. Saeed, BEng, University College London
 
